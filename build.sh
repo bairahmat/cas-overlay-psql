@@ -10,7 +10,7 @@ function copy() {
 }
 
 function help() {
-	echo "Usage: build.sh [copy|clean|package|run|bootrun]"	
+	echo "Usage: build.sh [copy|clean|package|run|bootrun]"
 }
 
 function clean() {
@@ -39,12 +39,12 @@ fi
 
 case "$1" in
 "copy")
-    copy 
+    copy
     ;;
 "clean")
 	shift
     clean "$@"
-    ;;   
+    ;;
 "package")
 	shift
     package "$@"
@@ -60,4 +60,3 @@ case "$1" in
     help
     ;;
 esac
-
