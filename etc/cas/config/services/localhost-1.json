@@ -1,0 +1,7 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http?://localhost.*",
+  "name" : "localhost",
+  "id" : 3,
+  "description" : "Allows only localhost services"
+}
