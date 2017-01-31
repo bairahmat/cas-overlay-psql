@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.support.saml.services.SamlRegisteredService",
+  "serviceId" : "https://skud-dev.cybozu.com/saml/acs",
+  "name" : "SAMLService",
+  "id" : 10000003,
+  "evaluationOrder" : 10,
+  "metadataLocation" : "/etc/cas/idp/metadata/spmetadata.xml"
+}
