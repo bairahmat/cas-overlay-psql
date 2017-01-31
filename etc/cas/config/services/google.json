@@ -1,6 +1,6 @@
 {
   "@class" : "org.apereo.cas.services.RegexRegisteredService",
-  "serviceId" : "https://www.google.com/a/sku.id/acs",
+  "serviceId" : "https://www.google.com/a/xxxxx/acs",
   "name" : "googleApps",
   "id" : 1000,
   "evaluationOrder" : 10

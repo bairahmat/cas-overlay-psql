@@ -1,6 +1,6 @@
 {
   "@class" : "org.apereo.cas.support.saml.services.SamlRegisteredService",
-  "serviceId" : "https://skud-dev.cybozu.com/saml/acs",
+  "serviceId" : "https://xxxxx.cybozu.com/saml/acs",
   "name" : "SAMLService",
   "id" : 10000003,
   "evaluationOrder" : 10,
